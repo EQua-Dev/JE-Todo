@@ -104,7 +104,7 @@ These enhancements will improve the functionality and scalability of the project
 
 If you have any questions, suggestions, or feedback regarding this project, feel free to reach out:
 
-- **Email**: your.email@example.com
+- **Email**: iamricharduzor@gmail.com
 - **GitHub**: [Your GitHub Profile](https://github.com/EQua-Dev)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/richard-uzor/)
 - **X (Formerly Twitter)**: [@richard_eQua](https://x.com/richard_eQua)
